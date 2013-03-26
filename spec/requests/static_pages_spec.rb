@@ -59,4 +59,5 @@ describe "Static pages" do
                     :text => "#{base_title} | Contact")
     end
   end
+  
 end
